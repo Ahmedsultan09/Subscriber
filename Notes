@@ -1,4 +1,0 @@
-// [1] => fix plans state and prevent event loop that happens from passing data from child to parent
-// [2] => send plan state to parent element so it can be used in summary component
-// [3] => do active state on 1 specific plan and prevent other plans to be active and have a true state
-// [4] => add active class to active card and remove it from others
