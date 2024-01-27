@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Steps from "./Steps";
 import Form from "./Form";
 import classes from "./CheckoutCard.module.css";
